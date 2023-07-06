@@ -1,0 +1,1 @@
+select * from cogent-chess-289709.dbt_lthomala.liquor_sales
